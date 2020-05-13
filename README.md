@@ -1,5 +1,5 @@
 # Space Invaders II : C++ Arcade game
-> A two dimentional arcade game based on the original space invaders. Utilized OOP principles    
+> A two dimentional arcade game based on the original space invaders. Learned OOP principles    
 
 ## Gameplay/ Funtionality: 
 > * User needs to dodge  the bullets shot by extraterrestrials by moving  left (pressing 'l') OR right (pressing 'r').
