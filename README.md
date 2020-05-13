@@ -11,4 +11,4 @@
 
 ## Tools Used: 
 > Developed using:  **Visual Studio**  
-> Languages & Libraries : **C++**  
+> Language : **C++**  
